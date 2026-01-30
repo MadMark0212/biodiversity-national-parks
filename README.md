@@ -93,3 +93,10 @@ Using Python and pandas, the analysis focuses on identifying endangered species,
     - Include population estimates
     - Analyze trends over time
     - Incorporate geographic visualization (maps)
+
+## Results Summary
+
+- Mammals and birds had the highest number of species listed under a protected conservation status.
+- Plants had a large total number of species but a lower proportion classified as protected.
+- Endangered and threatened species were unevenly distributed across categories, suggesting conservation efforts may be more concentrated on certain groups.
+- These findings highlight how conservation priorities vary by species category within U.S. National Parks.
