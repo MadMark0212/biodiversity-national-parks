@@ -41,3 +41,55 @@ Using Python and pandas, the analysis focuses on identifying endangered species,
 - Visualize geographic patterns
 - Expand to include climate or human impact data
 
+## Slide Deck Outline
+
+1. **Title Slide**
+   - Project title
+   - Your name
+   - Date
+   - Tools used (Python, pandas, matplotlib)
+
+2. **Project Overview**
+   - Purpose of the analysis
+   - Key research question:
+     - Which categories of species are most at risk in U.S. National Parks?
+
+3. **Data Sources**
+   - species_info.csv
+   - observations.csv
+   - Data provided by the National Park Service
+   - Brief description of each dataset
+
+4. **Data Cleaning & Preparation**
+   - Handling missing values
+   - Merging datasets
+   - Grouping by species category and conservation status
+
+5. **Exploratory Data Analysis**
+   - Distribution of species by conservation status
+   - Breakdown by species category
+   - Key visualizations created
+
+6. **Key Findings**
+   - Mammals show higher proportions of protected species
+   - Birds and reptiles are mostly of least concern
+   - Certain categories are disproportionately at risk
+
+7. **Visual Insights**
+   - Bar charts comparing conservation status
+   - Species category comparisons
+   - Explanation of trends seen in plots
+
+8. **Limitations**
+   - Observation counts may not represent true population sizes
+   - Dataset limited to recorded park observations
+   - Conservation status categories are broad
+
+9. **Conclusion**
+   - Summary of main insights
+   - Why this analysis matters for conservation planning
+
+10. **Next Steps**
+    - Include population estimates
+    - Analyze trends over time
+    - Incorporate geographic visualization (maps)
