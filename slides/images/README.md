@@ -1,1 +1,13 @@
-Image assets used in the Biodiversity in National Parks project.
+# Analysis Visualizations
+
+This folder contains visualizations generated during the exploratory data analysis
+of endangered species across U.S. National Parks.
+
+## Included Figures
+- `conservation_status_distribution.png`  
+  Distribution of species by conservation status.
+
+- `total_observation_by_park.png`  
+  Total recorded species observations across selected national parks.
+
+All figures were generated using Python (pandas & matplotlib).
